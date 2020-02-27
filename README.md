@@ -72,6 +72,7 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
       - `myStr[0]`
       - A range of indices can be defined with a colon
       - `myStr[2:5]`
+      count the first number before the colon but does not include the second number
     - Strings can be concatenated together with the `+` operator.
       - `myStr = "biology"`
       - `newString = myStr + "_is_super_interesting"`
@@ -83,6 +84,8 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
     - These are the data types used in things like `if...else` statements and `while` loops.
     - Logical statements, like `myNum > 3` or `myStr == "test"`, return a boolean variable indicating the result of the comparison
     - In Python, the value of a Boolean can be reversed by preceding it with `not`.
+    an exclamation mark ! =not
+    
 
 ## Functions
 
