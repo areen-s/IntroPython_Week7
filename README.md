@@ -114,6 +114,9 @@ As a reminder, keeping up with reading in the Practical Computing book (and revi
     - Methods can also be chained! - `myStr.strip().lower()`
     - `myStr.replace("y","ical")` - This method functions like find and replace, where the first argument is the text to find and the second argument is the text to use when replacing.
     - `myStr.split("O")` - Breaks up the string, using the character provided as an argument as the delimiter. This method then returns a list of new strings. We'll talk more about lists later.
+    *won't automatically change the underlying data type if you run a method. it's just doing it and then outputting the result. Need to assign it in order to change it 
+    "myString = myString.replace ("s", "x")
+    now should say 'thixIxAString'
 
 ## Comments in Python
 
